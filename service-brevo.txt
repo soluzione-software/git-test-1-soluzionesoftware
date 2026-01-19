@@ -1,0 +1,1 @@
+questo è il file che consente di avviare il servizio di integrazione con brevo
